@@ -17,11 +17,11 @@ The objective of this project is to:
 - Accurately estimate house prices
 
 ## Technologies Used
-Python 
-NumPy
-Pandas
-Matplotlib / Seaborn
-Scikit-learn
+- Python 
+- NumPy
+- Pandas
+- Matplotlib / Seaborn
+- Scikit-learn
 
 ## Results
 
